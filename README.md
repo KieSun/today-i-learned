@@ -22,4 +22,5 @@
 
 贡献内容的各位，可以加我好友进前端学习群，大家可以在群内共同学习及成长，**加好友请备注你的 Github 昵称。**
 
-<img src='https://yck-1254263422.cos.ap-shanghai.myqcloud.com/WechatIMG203.jpeg' width='200px'/>
+![](https://yck-1254263422.cos.ap-shanghai.myqcloud.com/blog/2019-06-01-034140.png)
+
