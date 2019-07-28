@@ -8,7 +8,7 @@
 
 同时也欢迎大家贡献自己学习到的知识，众人拾柴火焰高，每周我都会汇总这些内容并集合为一个周报沉淀下来。
 
-[7.22 - 28 中你学到什么？](https://github.com/KieSun/today-i-learned/issues/3)
+[7.29 - 8.4 中你学到什么？](https://github.com/KieSun/today-i-learned/issues/7)
 
 内容格式范例：
 
@@ -18,6 +18,7 @@
 
 周报内容：
 
+- [19.7.22 - 28](https://github.com/KieSun/Dream/issues/24)
 - [19.7.15 - 21](https://github.com/KieSun/Dream/issues/22)
 
 贡献内容的各位，可以加我好友进前端学习群，大家可以在群内共同学习及成长，**加好友请备注你的 Github 昵称。**
