@@ -8,7 +8,7 @@
 
 同时也欢迎大家贡献自己学习到的知识，众人拾柴火焰高，每周我都会汇总这些内容并集合为一个周报沉淀下来。
 
-[7.29 - 8.4 中你学到什么？](https://github.com/KieSun/today-i-learned/issues/7)
+**记录地址：[8.5 - 8.11 中你学到什么？](https://github.com/KieSun/today-i-learned/issues/12)**
 
 内容格式范例：
 
