@@ -18,8 +18,9 @@
 
 周报内容：
 
-- [19.7.22 - 28](https://github.com/KieSun/Dream/issues/24)
-- [19.7.15 - 21](https://github.com/KieSun/Dream/issues/22)
+- [【第三期】本周我们 37 人学了什么](https://github.com/KieSun/Dream/issues/25)
+- [【第二期】本周我们 55 人学了什么](https://github.com/KieSun/Dream/issues/24)
+- [【第一期】本周我们 36 人学了什么](https://github.com/KieSun/Dream/issues/22)
 
 贡献内容的各位，可以加我好友进前端学习群，大家可以在群内共同学习及成长，**加好友请备注你的 Github 昵称。**
 
